@@ -1,0 +1,1 @@
+void * mhAllocOrAbort(unsigned int );

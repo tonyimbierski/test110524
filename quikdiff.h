@@ -1,0 +1,1 @@
+void quikdiff(const char * file1,const char * file2);
